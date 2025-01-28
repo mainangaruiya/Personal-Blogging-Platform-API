@@ -1,0 +1,27 @@
+# Node.js modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Package lock files (optional, keep this if not needed)
+package-lock.json
+
+# Editor settings
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+*.log
+
